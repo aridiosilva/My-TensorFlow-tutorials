@@ -59,8 +59,7 @@ Links to Frameworks, Libraries,  Datasets, White papers, articles, list of books
 
 - ### TensorFlow Lite - for mobile and embedded devices
 
-   TensorFlow Lite is the official solution for running machine learning models on mobile and embedded devices. 
-   It enables on‑device machine learning inference with low latency and a small binary size on Android, iOS, and other operating systems. 
+   TensorFlow Lite is the official solution for running machine learning models on mobile and embedded devices. It enables on‑device machine learning inference with low latency and a small binary size on Android, iOS, and other operating systems. 
    
    - [*General Overview*](https://www.tensorflow.org/lite)
    - [*TensorFlow Lite Guide*](https://www.tensorflow.org/lite/overview)
@@ -84,7 +83,9 @@ Links to Frameworks, Libraries,  Datasets, White papers, articles, list of books
   - [*Keras - Learn and use machine learning - TensorFlow Tutorial*](https://www.tensorflow.org/tutorials/keras)
   
   
-## Python - he Python Deep Learning library
+## Python - The Python Deep Learning library
+
+Python is a dynamically typed programming language designed by Guido van Rossum. Much like the programming language Ruby, Python was designed to be easily read by programmers. Because of its large following and many libraries, Python can be implemented and used to do anything from webpages to scientific research
 
 - ### Main References of Python
 
@@ -101,13 +102,11 @@ Links to Frameworks, Libraries,  Datasets, White papers, articles, list of books
   - [*Python Enhancement Proposals (PEPs)*](https://www.python.org/dev/peps/)
   - [*Python Books*](https://wiki.python.org/moin/PythonBooks)
   - [*Python Documentation*](https://www.python.org/doc/)
+  - [*Python Brochure*](https://brochure.getpython.info/)
+  - [*Python Source Releases*](https://www.python.org/downloads/source/)
   
   
-  
-  
-  
-  
-  
+   
   
   
 
