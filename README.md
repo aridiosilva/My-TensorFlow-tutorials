@@ -115,13 +115,13 @@ Is a repository of software for the Python programming language. PyPI helps you 
    
  -### The Python Standard Library
  
-      Describes the standard library that is distributed with Python. It also describes some of the optional components that are commonly included in Python distributions.
+Describes the standard library that is distributed with Python. It also describes some of the optional components that are commonly included in Python distributions.
  
    - [*Standard Library 3.0*](https://docs.python.org/3/library/)
    
  -### The Python Language Reference
  
-     This reference manual describes the syntax and “core semantics” of the language. 
+This reference manual describes the syntax and “core semantics” of the language. 
  
    - [*Language Reference 3.0*](https://docs.python.org/3/reference/index.html#reference-index)
    
