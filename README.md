@@ -127,6 +127,7 @@ Describes the standard library that is distributed with Python. It also describe
  
    - [*Python Standard Library 3.0*](https://docs.python.org/3/library/)
    - [*Python Global Module Index*](https://docs.python.org/3/py-modindex.html)
+   - [*Python General Index - all functions, classes, terms*](https://docs.python.org/3/genindex.html)
    
  - ### The Python Language Reference
  
@@ -134,9 +135,9 @@ This reference manual describes the syntax and “core semantics” of the langu
  
    - [*Python Language Reference 3.0*](https://docs.python.org/3/reference/index.html#reference-index)
    
+ - ### The Python Tutorial
  
- 
-   
+   - [*The Python Tutorial*](https://docs.python.org/3/tutorial/index.html)
    
       
   
