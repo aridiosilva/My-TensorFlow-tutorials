@@ -104,26 +104,35 @@ Python is a dynamically typed programming language designed by Guido van Rossum.
   - [*Python Documentation*](https://www.python.org/doc/)
   - [*Python Brochure*](https://brochure.getpython.info/)
   - [*Python Source Releases*](https://www.python.org/downloads/source/)
+  - [*Python Setup and Usage*](https://docs.python.org/3/using/index.html)
+  - [*Python HOWTOs*](https://docs.python.org/3/howto/index.html)
+  - [*Installing Python Modules*](https://docs.python.org/3/installing/index.html)
+  - [*Extending and Embedding*](https://docs.python.org/3/extending/index.html)
+  - [*Python/C API*](https://docs.python.org/3/c-api/index.html)
+  - [*What's new in Python 3.7?*](https://docs.python.org/3/whatsnew/3.7.html)
+  - [*Python Glossary*](https://docs.python.org/3/glossary.html)
+  
   
 - ### The Python Package Index (PyPI) 
 
 Is a repository of software for the Python programming language. PyPI helps you find and install software developed and shared by the Python community. Learn about installing packages. Package authors use PyPI to distribute their software. Learn how to package your Python code for PyPI.
 
-   - [*Main Link*](https://pypi.org/)
-   - [*Common questions*](https://pypi.org/help/)
+   - [*PyPI Package Index*](https://pypi.org/)
+   - [*Python Package Common questions*](https://pypi.org/help/)
    - [*Browser Python Packages*](https://pypi.org/search/)
    
  - ### The Python Standard Library
  
 Describes the standard library that is distributed with Python. It also describes some of the optional components that are commonly included in Python distributions.
  
-   - [*Standard Library 3.0*](https://docs.python.org/3/library/)
+   - [*Python Standard Library 3.0*](https://docs.python.org/3/library/)
+   - [*Python Global Module Index*](https://docs.python.org/3/py-modindex.html)
    
  - ### The Python Language Reference
  
 This reference manual describes the syntax and “core semantics” of the language. 
  
-   - [*Language Reference 3.0*](https://docs.python.org/3/reference/index.html#reference-index)
+   - [*Python Language Reference 3.0*](https://docs.python.org/3/reference/index.html#reference-index)
    
  
  
