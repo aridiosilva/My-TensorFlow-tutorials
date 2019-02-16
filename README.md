@@ -116,9 +116,9 @@ Python is a dynamically typed programming language designed by Guido van Rossum.
  
 Describes the standard library that is distributed with Python. It also describes some of the optional components that are commonly included in Python distributions.
  
-   - [*Python Standard Library 3.0*](https://docs.python.org/3/library/)
-   - [*Python Global Module Index*](https://docs.python.org/3/py-modindex.html)
-   - [*Python General Index - all functions, classes, terms*](https://docs.python.org/3/genindex.html)
+   -[*Python Standard Library 3.0*](https://docs.python.org/3/library/)
+   -[*Python Global Module Index*](https://docs.python.org/3/py-modindex.html)
+   -[*Python General Index - all functions, classes, terms*](https://docs.python.org/3/genindex.html)
    
  - ### The Python Language Reference
  
