@@ -1,6 +1,6 @@
 
 # My-TensorFlow-tutorials
-Links to Frameworks, Libraries,  Datasets, White papers, articles, list of books, algorithms, tutorials, diagrams, models, code examples, videos, glossaries, and other topics related to Projects in Deep Learning, Machine Learning and AI.
+Links to Frameworks, Libraries,  Datasets, White papers, articles, list of books, algorithms, tutorials, diagrams, models, code examples, videos, glossaries, and other topics related to Projects in Deep Learning, Machine Learning and AI. 
 
 ## Machine Learning Guides
 ![Relation between AI, ML and DL](https://github.com/aridiosilva/My-TensorFlow-tutorials/blob/master/Relation%20Between%20AI%2C%20Machine%20Learning%20and%20Deep%20Learning.png)
@@ -15,6 +15,8 @@ Simple step-by-step walkthroughs to solve common machine learning problems using
 - [*Homemade Machine Learning*](https://github.com/trekhleb/homemade-machine-learning)
 
 ## Simplified Machine Learning Map
+With new neural network architectures popping up every now and then, it’s hard to keep track of them all. Knowing all the abbreviations being thrown around (DCIGN, BiLSTM, DCGAN, anyone?) can be a bit overwhelming at first. Composing a complete list is practically impossible, as new architectures are invented all the time. 
+
 ![Machine Learning Map*](https://raw.githubusercontent.com/aridiosilva/My-TensorFlow-tutorials/master/machine-learning-map.png)
 
                 source (https://github.com/trekhleb/homemade-machine-learning)
@@ -42,33 +44,16 @@ Simple step-by-step walkthroughs to solve common machine learning problems using
  - [*Convolutional neural networks (CNN or deep convolutional neural networks, DCNN)*](http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf) - LeCun, Yann, et al. “Gradient-based learning applied to document recognition.” Proceedings of the IEEE 86.11 (1998): 2278-2324.
  - [*Deep belief networks (DBN)*](https://papers.nips.cc/paper/3048-greedy-layer-wise-training-of-deep-networks.pdf) -Bengio, Yoshua, et al. “Greedy layer-wise training of deep networks.” Advances in neural information processing systems 19 (2007): 153.
  - [*Denoising autoencoders (DAE)*](http://machinelearning.org/archive/icml2008/papers/592.pdf) - Vincent, Pascal, et al. “Extracting and composing robust features with denoising autoencoders.” Proceedings of the 25th international conference on Machine learning. ACM, 2008.
- - [**]()
- - [**]()
- - [**]()
- - [**]()
- - [**]()
- - [**]()
- - [**]()
- - [**]()
- - [**]()
- - [**]()
- - [**]()
- - [**]()
- - [**]()
- - [**]()
- - [**]()
- - [**]()
- - [**]()
- - [**]()
- - [**]()
- - [**]()
- - [**]()
- - [**]()
- - [**]()
- - [**]()
- - [**]()
- - [**]()
- 
+ - [*Variational autoencoders (VAE) *](https://arxiv.org/pdf/1312.6114v10.pdf) - Kingma, Diederik P., and Max Welling. “Auto-encoding variational bayes.” arXiv preprint arXiv:1312.6114 (2013).
+ - [*Sparse autoencoders (SAE) *](https://papers.nips.cc/paper/3112-efficient-learning-of-sparse-representations-with-an-energy-based-model.pdf) - Marc’Aurelio Ranzato, Christopher Poultney, Sumit Chopra, and Yann LeCun. “Efficient learning of sparse representations with an energy-based model.” Proceedings of NIPS. 2007.
+ - [*Autoencoders (AE)*](http://ace.cs.ohio.edu/~razvan/courses/dl6890/papers/bourlard-kamp88.pdf) - Bourlard, Hervé, and Yves Kamp. “Auto-association by multilayer perceptrons and singular value decomposition.” Biological cybernetics 59.4-5 (1988): 291-294.
+ - [*Restricted Boltzmann machines (RBM)*](http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&doc=GetTRDoc.pdf&AD=ADA620727) - Smolensky, Paul. Information processing in dynamical systems: Foundations of harmony theory. No. CU-CS-321-86. COLORADO UNIV AT BOULDER DEPT OF COMPUTER SCIENCE, 1986.
+ - [*Boltzmann machines (BM) *](https://www.researchgate.net/profile/Terrence_Sejnowski/publication/242509302_Learning_and_relearning_in_Boltzmann_machines/links/54a4b00f0cf256bf8bb327cc.pdf) - Hinton, Geoffrey E., and Terrence J. Sejnowski. “Learning and releaming in Boltzmann machines.” Parallel distributed processing: Explorations in the microstructure of cognition 1 (1986): 282-317.
+ - [*Markov chains (MC or discrete time Markov Chain, DTMC)*](http://www.americanscientist.org/libraries/documents/201321152149545-2013-03Hayes.pdf) - Hayes, Brian. “First links in the Markov chain.” American Scientist 101.2 (2013): 252.
+ - [*Hopfield network (HN)*](https://bi.snu.ac.kr/Courses/g-ai09-2/hopfield82.pdf) - Hopfield, John J. “Neural networks and physical systems with emergent collective computational abilities.” Proceedings of the national academy of sciences 79.8 (1982): 2554-2558.
+ - [*Radial basis function (RBF) *]() - Broomhead, David S., and David Lowe. Radial basis functions, multi-variable functional interpolation and adaptive networks. No. RSRE-MEMO-4148. ROYAL SIGNALS AND RADAR ESTABLISHMENT MALVERN (UNITED KINGDOM), 1988.
+ - [*Feed forward neural networks (FF or FFNN) and perceptrons (P) *](http://www.ling.upenn.edu/courses/cogs501/Rosenblatt1958.pdf) - Rosenblatt, Frank. “The perceptron: a probabilistic model for information storage and organization in the brain.” Psychological review 65.6 (1958): 386.
+
 
 ## Machine Learning Glossary
 This glossary defines general machine learning terms as well as terms specific to TensorFlow.
