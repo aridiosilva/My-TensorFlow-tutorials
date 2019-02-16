@@ -19,7 +19,7 @@ Simple step-by-step walkthroughs to solve common machine learning problems using
 
                 source (https://github.com/trekhleb/homemade-machine-learning)
 
-## Papers and Chart about Different Neural Networks
+## Papers and Simpified Chart about Different Neural Networks
 
 ![*chart of different neural networks*](https://github.com/aridiosilva/My-TensorFlow-tutorials/blob/master/chart%20of%20different%20neural%20networks.png)
 
@@ -39,9 +39,9 @@ Simple step-by-step walkthroughs to solve common machine learning problems using
  - [*Generative adversarial networks (GAN)*](https://arxiv.org/pdf/1406.2661v1.pdf) - Goodfellow, Ian, et al. “Generative adversarial nets.” Advances in Neural Information Processing Systems. 2014.
  - [*Deep convolutional inverse graphics networks (DCIGN) *](https://arxiv.org/pdf/1503.03167v4.pdf) - Kulkarni, Tejas D., et al. “Deep convolutional inverse graphics network.” Advances in Neural Information Processing Systems. 2015.
  - [*Deconvolutional networks (DN)*](https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf) - Zeiler, Matthew D., et al. “Deconvolutional networks.” Computer Vision and Pattern Recognition (CVPR), 2010 IEEE Conference on. IEEE, 2010. 
- - [**]()
- - [**]()
- - [**]()
+ - [*Convolutional neural networks (CNN or deep convolutional neural networks, DCNN)*](http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf) - LeCun, Yann, et al. “Gradient-based learning applied to document recognition.” Proceedings of the IEEE 86.11 (1998): 2278-2324.
+ - [*Deep belief networks (DBN)*](https://papers.nips.cc/paper/3048-greedy-layer-wise-training-of-deep-networks.pdf) -Bengio, Yoshua, et al. “Greedy layer-wise training of deep networks.” Advances in neural information processing systems 19 (2007): 153.
+ - [*Denoising autoencoders (DAE)*](http://machinelearning.org/archive/icml2008/papers/592.pdf) - Vincent, Pascal, et al. “Extracting and composing robust features with denoising autoencoders.” Proceedings of the 25th international conference on Machine learning. ACM, 2008.
  - [**]()
  - [**]()
  - [**]()
