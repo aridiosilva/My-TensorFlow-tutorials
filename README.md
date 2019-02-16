@@ -53,7 +53,7 @@ Links to Frameworks, Libraries,  Datasets, White papers, articles, list of books
 
 - ### TensorFlow.JS  
 
-   A JavaScript library for training and deploying ML models inside the browser and on Node.js
+      A JavaScript library for training and deploying ML models inside the browser and on Node.js
 
    - [*Main Page of TensorFlow.js*](https://js.tensorflow.org/)
    - [*Getting Started*](https://js.tensorflow.org/#getting-started)
@@ -66,7 +66,7 @@ Links to Frameworks, Libraries,  Datasets, White papers, articles, list of books
 
 - ### TensorFlow Lite - for mobile and embedded devices
 
-   TensorFlow Lite is the official solution for running machine learning models on mobile and embedded devices. It enables on‑device machine learning inference with low latency and a small binary size on Android, iOS, and other operating systems. 
+      TensorFlow Lite is the official solution for running machine learning models on mobile and embedded devices. It enables on‑device machine learning inference with low latency and a small binary size on Android, iOS, and other operating systems. 
    
    - [*General Overview*](https://www.tensorflow.org/lite)
    - [*TensorFlow Lite Guide*](https://www.tensorflow.org/lite/overview)
@@ -92,7 +92,7 @@ Links to Frameworks, Libraries,  Datasets, White papers, articles, list of books
   
 ## Python - The Python Deep Learning library
 
-Python is a dynamically typed programming language designed by Guido van Rossum. Much like the programming language Ruby, Python was designed to be easily read by programmers. Because of its large following and many libraries, Python can be implemented and used to do anything from webpages to scientific research
+      Python is a dynamically typed programming language designed by Guido van Rossum. Much like the programming language Ruby, Python was designed to be easily read by programmers. Because of its large following and many libraries, Python can be implemented and used to do anything from webpages to scientific research
 
 - ### Main References of Python
 
@@ -121,7 +121,7 @@ Python is a dynamically typed programming language designed by Guido van Rossum.
   
  - ### The Python Standard Library
  
-Describes the standard library that is distributed with Python. It also describes some of the optional components that are commonly included in Python distributions.
+      Describes the standard library that is distributed with Python. It also describes some of the optional components that are commonly included in Python distributions.
  
    - [*Python Standard Library 3.0*](https://docs.python.org/3/library/)
    - [*Python Global Module Index*](https://docs.python.org/3/py-modindex.html)
@@ -129,7 +129,7 @@ Describes the standard library that is distributed with Python. It also describe
    
  - ### The Python Language Reference
  
-This reference manual describes the syntax and “core semantics” of the language. 
+      This reference manual describes the syntax and “core semantics” of the language. 
  
    - [*Python Language Reference 3.0*](https://docs.python.org/3/reference/index.html#reference-index)
    ' [*Google Python Style Guide*](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)
@@ -140,7 +140,7 @@ This reference manual describes the syntax and “core semantics” of the langu
     
 - ### The Python Package Index (PyPI) 
 
-Is a repository of software for the Python programming language. PyPI helps you find and install software developed and shared by the Python community. Learn about installing packages. Package authors use PyPI to distribute their software. Learn how to package your Python code for PyPI.
+      Is a repository of software for the Python programming language. PyPI helps you find and install software developed and shared by the Python community. Learn about installing packages. Package authors use PyPI to distribute their software. Learn how to package your Python code for PyPI.
 
    - [*PyPI Package Index*](https://pypi.org/)
    - [*Python Package Common questions*](https://pypi.org/help/)
