@@ -180,10 +180,13 @@ A collection of awesome markdown goodies (libraries, services, editors, tools, c
 
 - [*(Gitub)IPython Interactive Computing and Visualization Cookbook, Second Edition*](https://github.com/ipython-books/cookbook-2nd)
 - [*Mininh the Social Web, 2nd Edition*](https://nbviewer.jupyter.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/)
+- [*Python for Signal Processing - Featuring Ipython Notebook *](https://nbviewer.jupyter.org/github/unpingco/Python-for-Signal-Processing/tree/master/)
+- [*(GitHub)IPython in depth tutorial*](https://github.com/ipython/ipython-in-depth)
 
 ## Jupyter Notebooks Code Examples
 
 - [*Mining the Social Web, 2nd Edition*](https://nbviewer.jupyter.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/blob/master/ipynb/Chapter%201%20-%20Mining%20Twitter.ipynb)
+- [*Python for Signal Processing - Featuring Ipython Notebook *](https://nbviewer.jupyter.org/github/unpingco/Python-for-Signal-Processing/tree/master/)
 
 
 
