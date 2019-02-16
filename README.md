@@ -14,7 +14,7 @@ Simple step-by-step walkthroughs to solve common machine learning problems using
 - [*Text classification*](https://developers.google.com/machine-learning/guides/text-classification/)
 - [*Homemade Machine Learning*](https://github.com/trekhleb/homemade-machine-learning)
 
-## Machine Learning Map
+## Simplified Machine Learning Map
 ![Machine Learning Map*](https://raw.githubusercontent.com/aridiosilva/My-TensorFlow-tutorials/master/machine-learning-map.png)
 
                 source (https://github.com/trekhleb/homemade-machine-learning)
