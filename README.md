@@ -141,15 +141,37 @@ Is a repository of software for the Python programming language. PyPI helps you 
   - [*Python Package Common questions*](https://pypi.org/help/)
   - [*Browser Python Packages*](https://pypi.org/search/)
     
-# Jupyter Notebook Projects
-The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
+# Jupyter Notebook Projects - Interactive Computing
+The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. The Jupyter Notebook an interactive computing framework, based on a set of open standards for interactive computing. 
 
  - [*Jupyter Notebook Homepage*](https://jupyter.org/)
+ - [*The Jupyter Notebook Documentation*](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html)
+ - [*Notebook Document Format*](https://nbformat.readthedocs.io/en/latest/format_description.html)
+ - [*Jupyter Notebook Viewer*](https://nbviewer.jupyter.org/)
+ - [*Notebook Widgets*](https://jupyter.org/widgets)
+ - [*nbconvert - Convert Notebooks to other formats*](https://nbconvert.readthedocs.io/en/latest/)
+ - [*Making kernels for Jupyter*](https://ipython.org/books.html)
+ - [*Notebook Basics*](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Notebook%20Basics.html)
+ - [*Markdown Cells*](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html)
+ - [*Jupyter Configuration Overview*](https://jupyter-notebook.readthedocs.io/en/stable/config_overview.html)
+ - [*Distributing Jupyter Extensions as Python Packages*](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Distributing%20Jupyter%20Extensions%20as%20Python%20Packages.html)
+ - [*GitHub Reference implementation of the Jupyter Notebook format*](https://github.com/jupyter/nbformat)
+ - [*Notebook Examples*](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/examples_index.html)
+ - [*Simple Widget Introduction*](https://ipywidgets.readthedocs.io/en/stable/examples/Widget%20Basics.html)
+ 
+## Instaling Jupyter Notebook Kernels
 
-## Markdown - Markup Language used in Collab and Jupyter Noteboos, GitHub and other cases
+ - [*Installing Python Kernel - I`Python*](https://ipython.org/install.html)
+ - [*Installing Kernel of Other Languages*](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
+
+## Markdown - Markup Language used in Collab and Jupyter Notebooks, GitHub and other cases
 A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
 
- - [*Everything Related to Markdown*](https://github.com/mundimark/awesome-markdown)
+ - [*Resources about Markdown*](https://github.com/mundimark/awesome-markdown)
+ - [*GitHub-flavored markdown*](https://help.github.com/categories/writing-on-github/)
+ - [*GitHub Flavored Markdown Spec*](https://github.github.com/gfm/)
+
+ 
 
 
 
