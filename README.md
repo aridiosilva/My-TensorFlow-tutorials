@@ -8,6 +8,7 @@ Simple step-by-step walkthroughs to solve common machine learning problems using
 - [*Overview*](https://developers.google.com/machine-learning/guides/)
 - [*Rules of Machine Learning*](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 - [*Text classification*](https://developers.google.com/machine-learning/guides/text-classification/)
+- [*Homemade Machine Learning*](https://github.com/trekhleb/homemade-machine-learning)
 
 ## TensorFlow's Glossary
 This glossary defines general machine learning terms as well as terms specific to TensorFlow.
@@ -145,6 +146,7 @@ Is a repository of software for the Python programming language. PyPI helps you 
 The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. The Jupyter Notebook an interactive computing framework, based on a set of open standards for interactive computing. 
 
  - [*Jupyter Notebook Homepage*](https://jupyter.org/)
+ - [*https://jupyter.org/documentation*](https://jupyter.org/documentation)
  - [*The Juyter Notebook Stable Version*](https://jupyter-notebook.readthedocs.io/en/stable/)
  - [*Installing Jupyter Notebook*](https://jupyter.readthedocs.io/en/latest/install.html)
  - [*The Jupyter Notebook Documentation*](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html)
