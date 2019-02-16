@@ -182,6 +182,7 @@ The Jupyter Notebook is an open-source web application that allows you to create
 - [*Notebooks for Mining the Social Web Book*](https://nbviewer.jupyter.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/blob/master/ipynb/Chapter%201%20-%20Mining%20Twitter.ipynb)
 - [*Nbviewer for Python for Signal Processing Book*](https://nbviewer.jupyter.org/github/unpingco/Python-for-Signal-Processing/tree/master/)
 - [*Notebooks for "Python for Signal Processing" book*](https://github.com/unpingco/Python-for-Signal-Processing)
+- [*GitHub- Official repository for IPython itself*](https://github.com/ipython/ipython)
 
 ## Markdown - Markup Language used in Collab and Jupyter Notebooks, GitHub and other cases
 A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
