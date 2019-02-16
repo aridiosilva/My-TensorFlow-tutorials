@@ -141,6 +141,18 @@ Is a repository of software for the Python programming language. PyPI helps you 
   - [*Python Package Common questions*](https://pypi.org/help/)
   - [*Browser Python Packages*](https://pypi.org/search/)
     
+# Jupyter Notebook Projects
+The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
+
+ - [*Jupyter Notebook Homepage*](https://jupyter.org/)
+
+## Markdown - Markup Language used in Collab and Jupyter Noteboos, GitHub and other cases
+A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
+
+ - [*Everything Related to Markdown*](https://github.com/mundimark/awesome-markdown)
+
+
+
 
 
   
