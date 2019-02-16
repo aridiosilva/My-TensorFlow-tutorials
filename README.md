@@ -112,15 +112,6 @@ Python is a dynamically typed programming language designed by Guido van Rossum.
   - [*What's new in Python 3.7?*](https://docs.python.org/3/whatsnew/3.7.html)
   - [*Python Glossary*](https://docs.python.org/3/glossary.html)
   
-  
-- ### The Python Package Index (PyPI) 
-
-Is a repository of software for the Python programming language. PyPI helps you find and install software developed and shared by the Python community. Learn about installing packages. Package authors use PyPI to distribute their software. Learn how to package your Python code for PyPI.
-
-   - [*PyPI Package Index*](https://pypi.org/)
-   - [*Python Package Common questions*](https://pypi.org/help/)
-   - [*Browser Python Packages*](https://pypi.org/search/)
-   
  - ### The Python Standard Library
  
 Describes the standard library that is distributed with Python. It also describes some of the optional components that are commonly included in Python distributions.
@@ -137,9 +128,16 @@ This reference manual describes the syntax and “core semantics” of the langu
    
  - ### The Python Tutorial
  
-   - [*The Python Tutorial*](https://docs.python.org/3/tutorial/index.html)
-   
-      
+   - [*The Python Tutorial*](https://docs.python.org/3/tutorial/index.html)   
+    
+- ### The Python Package Index (PyPI) 
+
+Is a repository of software for the Python programming language. PyPI helps you find and install software developed and shared by the Python community. Learn about installing packages. Package authors use PyPI to distribute their software. Learn how to package your Python code for PyPI.
+
+   - [*PyPI Package Index*](https://pypi.org/)
+   - [*Python Package Common questions*](https://pypi.org/help/)
+   - [*Browser Python Packages*](https://pypi.org/search/)
+       
   
   
 
