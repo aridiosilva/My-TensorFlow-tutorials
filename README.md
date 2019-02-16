@@ -37,7 +37,7 @@ Links to Frameworks, Libraries,  Datasets, White papers, articles, list of books
    - [*TensorFlow Visualization Toolkit*](https://github.com/tensorflow/tensorboard)   
    - [*Get Started with TensorFlow (Google's Tutorial)*](https://www.tensorflow.org/tutorials)
    - [*TensorFlow Debugger*](https://www.tensorflow.org/guide/debugger)
-   - [*TensorFlow Models*](https://github.com/tensorflow/tensorboard)
+   - [*TensorFlow Models*](https://github.com/tensorflow/models)
     
 - ### Videos and updates about TensorFlow
 
