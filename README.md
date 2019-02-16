@@ -175,6 +175,7 @@ The Jupyter Notebook is an open-source web application that allows you to create
 - [*Mininh the Social Web, 2nd Edition*](https://nbviewer.jupyter.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/)
 - [*Python for Signal Processing - Featuring Ipython Notebook *](https://nbviewer.jupyter.org/github/unpingco/Python-for-Signal-Processing/tree/master/)
 - [*(GitHub)IPython in depth tutorial*](https://github.com/ipython/ipython-in-depth)
+- [*Integrating Machine Learning in Jupyter Notebooks*](https://github.com/qati/GSOC16)
 
 ## Jupyter Notebooks Code Examples
 
