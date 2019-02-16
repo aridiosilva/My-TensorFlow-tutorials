@@ -19,7 +19,7 @@ Simple step-by-step walkthroughs to solve common machine learning problems using
 
                 source (https://github.com/trekhleb/homemade-machine-learning)
 
-## Papers About Different Types of Deep Neural Networks
+## Papers and Chart about Different Neural Networks
 
 ![*chart of different neural networks*](https://github.com/aridiosilva/My-TensorFlow-tutorials/blob/master/chart%20of%20different%20neural%20networks.png)
 
@@ -28,13 +28,13 @@ Simple step-by-step walkthroughs to solve common machine learning problems using
  - [*Kohonen networks (KN), also self organising (feature) map, SOM, SOFM)*](http://cioslab.vcu.edu/alg/Visualize/kohonen-82.pdf) - Kohonen, Teuvo. “Self-organized formation of topologically correct feature maps.” Biological cybernetics 43.1 (1982)
  - [*Support vector machines (SVM)*](http://image.diku.dk/imagecanon/material/cortes_vapnik95.pdf) - Cortes, Corinna, and Vladimir Vapnik. “Support-vector networks.” Machine learning 20.3 (1995): 273-297.
  - [*Liquid state machines (LSM)*](https://web.archive.org/web/20120222154641/http://ramsesii.upf.es/seminar/Maass_et_al_2002.pdf) - Maass, Wolfgang, Thomas Natschläger, and Henry Markram. “Real-time computing without stable states: A new framework for neural computation based on perturbations (Wayback Machine) - Neural computation 14.11 (2002): 2531-2560.
- - [**]()
- - [**]()
- - [**]()
- - [**]()
- - [**]()
- - [**]()
- - [**]()
+ - [*Extreme learning machines (ELM)*](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/http://www.ntu.edu.sg/home/egbhuang/pdf/ELM-Rosenblatt-Neumann.pdf) - Cambria, Erik, et al. “Extreme learning machines [trends & controversies].” IEEE Intelligent Systems 28.6 (2013): 30-59.
+ - [*Echo state networks (ESN)*](https://pdfs.semanticscholar.org/8922/17bb82c11e6e2263178ed20ac23db6279c7a.pdf) - Jaeger, Herbert, and Harald Haas. “Harnessing nonlinearity: Predicting chaotic systems and saving energy in wireless communication.” science 304.5667 (2004): 78-80.
+ - [*Deep residual networks (DRN) *](https://arxiv.org/pdf/1512.03385v1.pdf) - He, Kaiming, et al. “Deep residual learning for image recognition.” arXiv preprint arXiv:1512.03385 (2015).
+ - [*Bidirectional recurrent neural networks, bidirectional long & short term memory networks and bidirectional gated recurrent units (BiRNN, BiLSTM and BiGRU respectively)*](http://www.di.ufpe.br/~fnj/RNA/bibliografia/BRNN.pdf) - Schuster, Mike, and Kuldip K. Paliwal. “Bidirectional recurrent neural networks.” IEEE Transactions on Signal Processing 45.11 (1997): 2673-2681.
+ - [*Neural Turing machines (NTM)*](https://arxiv.org/pdf/1410.5401v2.pdf) - Graves, Alex, Greg Wayne, and Ivo Danihelka. “Neural turing machines.” arXiv preprint arXiv:1410.5401 (2014).
+ - [*Gated recurrent units (GRU)*](https://arxiv.org/pdf/1412.3555v1.pdf) - Chung, Junyoung, et al. “Empirical evaluation of gated recurrent neural networks on sequence modeling.” arXiv preprint arXiv:1412.3555 (2014).
+ - [*Long/short term memory (LSTM) networks*](http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf) - Hochreiter, Sepp, and Jürgen Schmidhuber. “Long short-term memory.” Neural computation 9.8 (1997): 1735-1780.
  - [**]()
  - [**]()
  - [**]()
