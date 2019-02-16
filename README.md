@@ -145,6 +145,7 @@ Is a repository of software for the Python programming language. PyPI helps you 
 The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. The Jupyter Notebook an interactive computing framework, based on a set of open standards for interactive computing. 
 
  - [*Jupyter Notebook Homepage*](https://jupyter.org/)
+ - [*The Juyter Notebook Stable Version*](https://jupyter-notebook.readthedocs.io/en/stable/)
  - [*The Jupyter Notebook Documentation*](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html)
  - [*Notebook Document Format*](https://nbformat.readthedocs.io/en/latest/format_description.html)
  - [*Jupyter Notebook Viewer*](https://nbviewer.jupyter.org/)
@@ -158,6 +159,8 @@ The Jupyter Notebook is an open-source web application that allows you to create
  - [*GitHub Reference implementation of the Jupyter Notebook format*](https://github.com/jupyter/nbformat)
  - [*Notebook Examples*](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/examples_index.html)
  - [*Simple Widget Introduction*](https://ipywidgets.readthedocs.io/en/stable/examples/Widget%20Basics.html)
+ - [*What to do when things go wrong*](https://jupyter-notebook.readthedocs.io/en/stable/troubleshooting.html)
+ *[Making a Notebook release*](https://jupyter-notebook.readthedocs.io/en/stable/development_release.html)
  
 ## Instaling Jupyter Notebook Kernels
 
