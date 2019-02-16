@@ -169,13 +169,6 @@ The Jupyter Notebook is an open-source web application that allows you to create
  - [*Installing Python Kernel - I`Python*](https://ipython.org/install.html)
  - [*Installing Kernel of Other Languages*](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
 
-## Markdown - Markup Language used in Collab and Jupyter Notebooks, GitHub and other cases
-A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
-
- - [*Resources about Markdown*](https://github.com/mundimark/awesome-markdown)
- - [*GitHub-flavored markdown*](https://help.github.com/categories/writing-on-github/)
- - [*GitHub Flavored Markdown Spec*](https://github.github.com/gfm/)
-
 ## Jupyter Notebooks - Books
 
 - [*(Gitub)IPython Interactive Computing and Visualization Cookbook, Second Edition*](https://github.com/ipython-books/cookbook-2nd)
@@ -187,6 +180,13 @@ A collection of awesome markdown goodies (libraries, services, editors, tools, c
 
 - [*Mining the Social Web, 2nd Edition*](https://nbviewer.jupyter.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/blob/master/ipynb/Chapter%201%20-%20Mining%20Twitter.ipynb)
 - [*Python for Signal Processing - Featuring Ipython Notebook *](https://nbviewer.jupyter.org/github/unpingco/Python-for-Signal-Processing/tree/master/)
+
+## Markdown - Markup Language used in Collab and Jupyter Notebooks, GitHub and other cases
+A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
+
+ - [*Resources about Markdown*](https://github.com/mundimark/awesome-markdown)
+ - [*GitHub-flavored markdown*](https://help.github.com/categories/writing-on-github/)
+ - [*GitHub Flavored Markdown Spec*](https://github.github.com/gfm/)
 
 
 
