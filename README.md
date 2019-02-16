@@ -34,8 +34,8 @@ Simple step-by-step walkthroughs to solve common machine learning problems using
  - [*Bidirectional recurrent neural networks, bidirectional long & short term memory networks and bidirectional gated recurrent units (BiRNN, BiLSTM and BiGRU respectively)*](http://www.di.ufpe.br/~fnj/RNA/bibliografia/BRNN.pdf) - Schuster, Mike, and Kuldip K. Paliwal. “Bidirectional recurrent neural networks.” IEEE Transactions on Signal Processing 45.11 (1997): 2673-2681.
  - [*Neural Turing machines (NTM)*](https://arxiv.org/pdf/1410.5401v2.pdf) - Graves, Alex, Greg Wayne, and Ivo Danihelka. “Neural turing machines.” arXiv preprint arXiv:1410.5401 (2014).
  - [*Gated recurrent units (GRU)*](https://arxiv.org/pdf/1412.3555v1.pdf) - Chung, Junyoung, et al. “Empirical evaluation of gated recurrent neural networks on sequence modeling.” arXiv preprint arXiv:1412.3555 (2014).
- - [*Long/short term memory (LSTM) networks*](http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf) - Hochreiter, Sepp, and Jürgen Schmidhuber. “Long short-term memory.” Neural computation 9.8 (1997): 1735-1780.
- - [**]()
+ - [*Long/short term memory (LSTM) networks*](https://www.bioinf.jku.at/publications/older/2604.pdf) - Hochreiter, Sepp, and Jürgen Schmidhuber. “Long short-term memory.” Neural computation 9.8 (1997): 1735-1780.
+ - [*Recurrent neural networks (RNN)*](https://crl.ucsd.edu/~elman/Papers/fsit.pdf) - Elman, Jeffrey L. “Finding structure in time.” Cognitive science 14.2 (1990): 179-211.
  - [**]()
  - [**]()
  - [**]()
