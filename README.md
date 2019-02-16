@@ -1,6 +1,6 @@
 
 # My-TensorFlow-tutorials
-Links to Frameworks, Libraries,  Datasets, White papers, articles, list of books, algorithms, tutorials, diagrams, models, code examples, videos, glossaries, and everything that I found interesting related to Projects in Deep Learning, Machine Learning and AI.
+Links to Frameworks, Libraries,  Datasets, White papers, articles, list of books, algorithms, tutorials, diagrams, models, code examples, videos, glossaries, and other topics related to Projects in Deep Learning, Machine Learning and AI.
 
 ## Machine Learning Guides
 Simple step-by-step walkthroughs to solve common machine learning problems using best practices
