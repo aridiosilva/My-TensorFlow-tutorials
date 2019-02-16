@@ -99,6 +99,7 @@ https://arxiv.org/search/?query=%22Supervised+Learning%22&searchtype=all&abstrac
 - [*Cornell University - Papers aboutCompositional pattern-producing network*](https://arxiv.org/search/?query=%22Compositional+pattern-producing+network%22&searchtype=all&abstracts=show&order=-announced_date_first&size=50)
 - [*Cornell University - Papers about Time delay neural network*](https://arxiv.org/search/?query=%22Time+delay+neural+network+%22&searchtype=all&abstracts=show&order=-announced_date_first&size=50)
 - [*Cornell University - Papers about Optical neural network*](https://arxiv.org/search/?query=%22Optical+neural+network%22&searchtype=all&abstracts=show&order=-announced_date_first&size=50)
+- [*Cornell University - Papers about Backpropagation*](https://arxiv.org/search/?query=%22Backpropagation%22&searchtype=all&abstracts=show&order=-announced_date_first&size=50)
 
 ## Machine Learning Glossary
 This glossary defines general machine learning terms as well as terms specific to TensorFlow.
