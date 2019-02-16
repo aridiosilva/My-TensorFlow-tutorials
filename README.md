@@ -53,9 +53,11 @@ Links to Frameworks, Libraries,  Datasets, White papers, articles, list of books
    
 - ### TensorBoard Travis build status
 
-      TensorBoard is a suite of web applications for inspecting and understanding your TensorFlow runs and graphs.
+TensorBoard is a suite of web applications for inspecting and understanding your TensorFlow runs and graphs.
       
-    - [*TensorBoard*](https://github.com/tensorflow/tensorboard)  
+   - [*TensorBoard*](https://github.com/tensorflow/tensorboard)  
+   - [*TensorBoard: Visualizing Learning*](https://www.tensorflow.org/guide/summaries_and_tensorboard)
+   - [*TensorBoard: Graph Visualization*](https://www.tensorflow.org/guide/graph_viz)
 
 - ### TensorFlow.JS  
 
