@@ -49,7 +49,13 @@ Links to Frameworks, Libraries,  Datasets, White papers, articles, list of books
 
    - [*Get started with TensorFlow's High-Level APIs*](https://www.youtube.com/watch?v=tjsHSIG8I08)
    - [*Eager execution*](https://www.youtube.com/watch?v=T8AW0fKP0Hs)
-   - [*Fast, flexible, and easy-to-use input pipelines*](https://www.youtube.com/watch?v=uIcqeP7MFH0) 
+   - [*Fast, flexible, and easy-to-use input pipelines*](https://www.youtube.com/watch?v=uIcqeP7MFH0)
+   
+- ### TensorBoard Travis build status
+
+      TensorBoard is a suite of web applications for inspecting and understanding your TensorFlow runs and graphs.
+      
+    - [*TensorBoard*](https://github.com/tensorflow/tensorboard)  
 
 - ### TensorFlow.JS  
 
