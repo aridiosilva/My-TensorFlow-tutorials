@@ -150,6 +150,7 @@ The Jupyter Notebook is an open-source web application that allows you to create
  - [*Notebook Document Format*](https://nbformat.readthedocs.io/en/latest/format_description.html)
  - [*Jupyter Notebook Viewer*](https://nbviewer.jupyter.org/)
  - [*Notebook Widgets*](https://jupyter.org/widgets)
+ - [*Jupyter widgets User Guide*](https://ipywidgets.readthedocs.io/en/stable/user_guide.html)
  - [*nbconvert - Convert Notebooks to other formats*](https://nbconvert.readthedocs.io/en/latest/)
  - [*Making kernels for Jupyter*](https://ipython.org/books.html)
  - [*Notebook Basics*](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Notebook%20Basics.html)
