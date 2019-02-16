@@ -36,9 +36,9 @@ Simple step-by-step walkthroughs to solve common machine learning problems using
  - [*Gated recurrent units (GRU)*](https://arxiv.org/pdf/1412.3555v1.pdf) - Chung, Junyoung, et al. “Empirical evaluation of gated recurrent neural networks on sequence modeling.” arXiv preprint arXiv:1412.3555 (2014).
  - [*Long/short term memory (LSTM) networks*](https://www.bioinf.jku.at/publications/older/2604.pdf) - Hochreiter, Sepp, and Jürgen Schmidhuber. “Long short-term memory.” Neural computation 9.8 (1997): 1735-1780.
  - [*Recurrent neural networks (RNN)*](https://crl.ucsd.edu/~elman/Papers/fsit.pdf) - Elman, Jeffrey L. “Finding structure in time.” Cognitive science 14.2 (1990): 179-211.
- - [**]()
- - [**]()
- - [**]()
+ - [*Generative adversarial networks (GAN)*](https://arxiv.org/pdf/1406.2661v1.pdf) - Goodfellow, Ian, et al. “Generative adversarial nets.” Advances in Neural Information Processing Systems. 2014.
+ - [*Deep convolutional inverse graphics networks (DCIGN) *](https://arxiv.org/pdf/1503.03167v4.pdf) - Kulkarni, Tejas D., et al. “Deep convolutional inverse graphics network.” Advances in Neural Information Processing Systems. 2015.
+ - [*Deconvolutional networks (DN)*](https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf) - Zeiler, Matthew D., et al. “Deconvolutional networks.” Computer Vision and Pattern Recognition (CVPR), 2010 IEEE Conference on. IEEE, 2010. 
  - [**]()
  - [**]()
  - [**]()
