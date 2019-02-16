@@ -96,8 +96,8 @@ https://arxiv.org/search/?query=%22Supervised+Learning%22&searchtype=all&abstrac
 - [*Cornell University - Papers about Deep Feedforward and Recurrent Neural Networks*]()
 - [*Cornell University - Papers about Neuro-fuzzy*](https://arxiv.org/search/?query=%22Neuro-fuzzy%22&searchtype=all&abstracts=show&order=-announced_date_first&size=50)
 - [*Cornell University - Papers about Cascade correlation*](https://arxiv.org/search/?query=%22Cascade+correlation%22&searchtype=all&abstracts=show&order=-announced_date_first&size=50)
-- [*Cornell University - Papers aboutCompositional pattern-producing network *](https://arxiv.org/search/?query=%22Compositional+pattern-producing+network%22&searchtype=all&abstracts=show&order=-announced_date_first&size=50)
-- [*Cornell University - Papers about Time delay neural network *](https://arxiv.org/search/?query=%22Time+delay+neural+network+%22&searchtype=all&abstracts=show&order=-announced_date_first&size=50)
+- [*Cornell University - Papers aboutCompositional pattern-producing network*](https://arxiv.org/search/?query=%22Compositional+pattern-producing+network%22&searchtype=all&abstracts=show&order=-announced_date_first&size=50)
+- [*Cornell University - Papers about Time delay neural network*](https://arxiv.org/search/?query=%22Time+delay+neural+network+%22&searchtype=all&abstracts=show&order=-announced_date_first&size=50)
 - [*Cornell University - Papers about Optical neural network*](https://arxiv.org/search/?query=%22Optical+neural+network%22&searchtype=all&abstracts=show&order=-announced_date_first&size=50)
 
 ## Machine Learning Glossary
