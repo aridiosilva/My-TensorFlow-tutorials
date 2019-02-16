@@ -173,7 +173,7 @@ The Jupyter Notebook is an open-source web application that allows you to create
  
 ## Instaling Jupyter Notebook Kernels
 
- - [*Installing Python Kernel - I`Python*](https://ipython.org/install.html)
+ - [*Installing Python Kernel - IPython*](https://ipython.org/install.html)
  - [*Installing Kernel of Other Languages*](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
 
 ## Jupyter Notebooks - Books
