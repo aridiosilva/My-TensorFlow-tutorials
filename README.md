@@ -146,6 +146,7 @@ The Jupyter Notebook is an open-source web application that allows you to create
 
  - [*Jupyter Notebook Homepage*](https://jupyter.org/)
  - [*The Juyter Notebook Stable Version*](https://jupyter-notebook.readthedocs.io/en/stable/)
+ - [*Installing Jupyter Notebook*](https://jupyter.readthedocs.io/en/latest/install.html)
  - [*The Jupyter Notebook Documentation*](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html)
  - [*Notebook Document Format*](https://nbformat.readthedocs.io/en/latest/format_description.html)
  - [*Jupyter Notebook Viewer*](https://nbviewer.jupyter.org/)
@@ -175,7 +176,16 @@ A collection of awesome markdown goodies (libraries, services, editors, tools, c
  - [*GitHub-flavored markdown*](https://help.github.com/categories/writing-on-github/)
  - [*GitHub Flavored Markdown Spec*](https://github.github.com/gfm/)
 
- 
+## Jupyter Notebooks - Books
+
+- [*(Gitub)IPython Interactive Computing and Visualization Cookbook, Second Edition*](https://github.com/ipython-books/cookbook-2nd)
+- [*Mininh the Social Web, 2nd Edition*](https://nbviewer.jupyter.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/)
+
+## Jupyter Notebooks Code Examples
+
+- [*Mining the Social Web, 2nd Edition*](https://nbviewer.jupyter.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/blob/master/ipynb/Chapter%201%20-%20Mining%20Twitter.ipynb)
+
+
 
 
 
