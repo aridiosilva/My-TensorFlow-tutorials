@@ -197,7 +197,7 @@ A collection of awesome markdown goodies (libraries, services, editors, tools, c
  - [*Resources about Markdown*](https://github.com/mundimark/awesome-markdown)
  - [*GitHub-flavored markdown*](https://help.github.com/categories/writing-on-github/)
  - [*GitHub Flavored Markdown Spec*](https://github.github.com/gfm/)
-
+ - [*Language Categories & Styles*](https://highlightjs.org/static/demo/)
 
 
 
