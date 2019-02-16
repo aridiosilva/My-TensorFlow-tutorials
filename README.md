@@ -4,7 +4,7 @@ Links to Frameworks, Libraries,  Datasets, White papers, articles, list of books
 
 - ### Machine Learning Guides
 
-      Simple step-by-step walkthroughs to solve common machine learning problems using best practices
+Simple step-by-step walkthroughs to solve common machine learning problems using best practices
 
    - [*Overview*](https://developers.google.com/machine-learning/guides/)
    - [*Rules of Machine Learning*](https://developers.google.com/machine-learning/guides/rules-of-ml/)
