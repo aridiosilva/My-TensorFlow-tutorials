@@ -15,9 +15,60 @@ Simple step-by-step walkthroughs to solve common machine learning problems using
 - [*Homemade Machine Learning*](https://github.com/trekhleb/homemade-machine-learning)
 
 ## Machine Learning Map
-![Machine Learning Map - The original source of this image is located at https://github.com/trekhleb/homemade-machine-learning](https://raw.githubusercontent.com/aridiosilva/My-TensorFlow-tutorials/master/machine-learning-map.png)
+![Machine Learning Map*](https://raw.githubusercontent.com/aridiosilva/My-TensorFlow-tutorials/master/machine-learning-map.png)
 
                 source of this image is (https://github.com/trekhleb/homemade-machine-learning)
+
+## Papers About Different Types of Deep Neural Networks
+
+![*chart of different neural networks*](https://raw.githubusercontent.com/aridiosilva/My-TensorFlow-tutorials/master/chart of different neural networks.png)
+
+                source of this image is (http://www.asimovinstitute.org/neural-network-zoo/)
+                
+ - [*Kohonen networks (KN), also self organising (feature) map, SOM, SOFM)*](http://cioslab.vcu.edu/alg/Visualize/kohonen-82.pdf) - Kohonen, Teuvo. “Self-organized formation of topologically correct feature maps.” Biological cybernetics 43.1 (1982)
+ - [*Support vector machines (SVM)*](http://image.diku.dk/imagecanon/material/cortes_vapnik95.pdf) - Cortes, Corinna, and Vladimir Vapnik. “Support-vector networks.” Machine learning 20.3 (1995): 273-297.
+ - [*Liquid state machines (LSM)*](https://web.archive.org/web/20120222154641/http://ramsesii.upf.es/seminar/Maass_et_al_2002.pdf) - Maass, Wolfgang, Thomas Natschläger, and Henry Markram. “Real-time computing without stable states: A new framework for neural computation based on perturbations (Wayback Machine) - Neural computation 14.11 (2002): 2531-2560.
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ - [**]()
+ 
 
 ## Machine Learning Glossary
 This glossary defines general machine learning terms as well as terms specific to TensorFlow.
