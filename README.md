@@ -2,7 +2,7 @@
 
 Links to Frameworks, Libraries,  Datasets, White papers, articles, list of books, algorithms, tutorials, diagrams, models, code examples, videos, glossaries, and everything that I found interesting related to Projects in Deep Learning, Machine Learning and AI.
 
-    - ### Machine Learning Guides
+### Machine Learning Guides
 
 Simple step-by-step walkthroughs to solve common machine learning problems using best practices
 
@@ -10,19 +10,19 @@ Simple step-by-step walkthroughs to solve common machine learning problems using
     - [*Rules of Machine Learning*](https://developers.google.com/machine-learning/guides/rules-of-ml/)
     - [*Text classification*](https://developers.google.com/machine-learning/guides/text-classification/)
 
-    - ### TensorFlow's Glossary
+### TensorFlow's Glossary
 
 This glossary defines general machine learning terms as well as terms specific to TensorFlow.
    
     - [*Machine Learning Glossary*](https://developers.google.com/machine-learning/glossary/)
    
-    - ### Main References of TensorFlow
+ ### Main References of TensorFlow
 
     - [*TensorFlow in GitHub*](<https://github.com/tensorflow/tensorflow>)
     - [*TensorFlow.org - An open source machine learning library for research and production*](https://www.tensorflow.org/)
     - [*TensorFlow API Documentation*](https://www.tensorflow.org/api_docs)
 
-    - ### Resources About TensorFlow
+ ### Resources About TensorFlow
 
     - [*TensorFlow Website*](https://www.tensorflow.org/)
     - [*TensorFlow Guide*](https://www.tensorflow.org/guide)
@@ -38,19 +38,19 @@ This glossary defines general machine learning terms as well as terms specific t
     - [*Get Started with TensorFlow (Google's Tutorial)*](https://www.tensorflow.org/tutorials)
     - [*TensorFlow Debugger*](https://www.tensorflow.org/guide/debugger)
    
-    - ### TensorFlow Models
+ ### TensorFlow Models
 
     - [*Index of TensorFlow Models*](https://github.com/tensorflow/models)
     - [*TensorFlow Research Models*](https://github.com/tensorflow/models/tree/master/research)
     - [*TensorFlow Official Models*](https://github.com/tensorflow/models/tree/master/official)
     
-    - ### Videos and updates about TensorFlow
+### Videos and updates about TensorFlow
 
     - [*Get started with TensorFlow's High-Level APIs*](https://www.youtube.com/watch?v=tjsHSIG8I08)
     - [*Eager execution*](https://www.youtube.com/watch?v=T8AW0fKP0Hs)
     - [*Fast, flexible, and easy-to-use input pipelines*](https://www.youtube.com/watch?v=uIcqeP7MFH0)
    
-    - ### TensorBoard 
+### TensorBoard 
 
 TensorBoard is a suite of web applications for inspecting and understanding your TensorFlow runs and graphs
 
@@ -58,7 +58,7 @@ TensorBoard is a suite of web applications for inspecting and understanding your
     - [*TensorBoard: Visualizing Learning*](https://www.tensorflow.org/guide/summaries_and_tensorboard)
     - [*TensorBoard: Graph Visualization*](https://www.tensorflow.org/guide/graph_viz)
 
-    - ### TensorFlow.JS  
+### TensorFlow.JS  
 
 A JavaScript library for training and deploying ML models inside the browser and on Node.js
 
@@ -70,7 +70,7 @@ A JavaScript library for training and deploying ML models inside the browser and
     - [*Frequently Asked Questions*](https://js.tensorflow.org/faq/)
     - [*Core Concepts in TensorFlow.js*](https://js.tensorflow.org/tutorials/core-concepts.html)
    
-    - ### TensorFlow Lite - for mobile and embedded devices
+### TensorFlow Lite - for mobile and embedded devices
 
 TensorFlow Lite is the official solution for running machine learning models on mobile and embedded devices. It enables on‑device machine learning inference with low latency and a small binary size on Android, iOS, and other operating systems 
    
@@ -78,7 +78,7 @@ TensorFlow Lite is the official solution for running machine learning models on 
     - [*TensorFlow Lite Guide*](https://www.tensorflow.org/lite/overview)
     - [*TensorFlow Lite API*](https://www.tensorflow.org/api_docs/python/tf/contrib/lite)
    
-    - ### Machine Learning Courses
+### Machine Learning Courses
 
 Google's fast-paced, practical introduction to machine learning
       
@@ -99,7 +99,7 @@ Google's fast-paced, practical introduction to machine learning
 
 Python is a dynamically typed programming language designed by Guido van Rossum. Much like the programming language Ruby, Python was designed to be easily read by programmers. Because of its large following and many libraries, Python can be implemented and used to do anything from webpages to scientific research
 
-    - ### Main References of Python
+### Main References of Python
 
     - [*Python.org*](https://www.python.org/)
     - [*Get Started*](https://www.python.org/about/gettingstarted/)
@@ -124,7 +124,7 @@ Python is a dynamically typed programming language designed by Guido van Rossum.
     - [*What's new in Python 3.7?*](https://docs.python.org/3/whatsnew/3.7.html)
     - [*Python Glossary*](https://docs.python.org/3/glossary.html)
  
-    - ### The Python Standard Library
+### The Python Standard Library
  
 Describes the standard library that is distributed with Python. It also describes some of the optional components that are commonly included in Python distributions
  
@@ -132,18 +132,18 @@ Describes the standard library that is distributed with Python. It also describe
     - [*Python Global Module Index*](https://docs.python.org/3/py-modindex.html)
     - [*Python General Index - all functions, classes, terms*](https://docs.python.org/3/genindex.html)
    
-    - ### The Python Language Reference
+### The Python Language Reference
  
 This reference manual describes the syntax and “core semantics” of the language 
  
     - [*Python Language Reference 3.0*](https://docs.python.org/3/reference/index.html#reference-index)
     - [*Google Python Style Guide*](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)
    
-    - ### The Python Tutorial
+### The Python Tutorial
  
     - [*The Python Tutorial*](https://docs.python.org/3/tutorial/index.html)   
     
-    - ### The Python Package Index (PyPI) 
+### The Python Package Index (PyPI) 
 
 Is a repository of software for the Python programming language. PyPI helps you find and install software developed and shared by the Python community. Learn about installing packages. Package authors use PyPI to distribute their software. Learn how to package your Python code for PyPI
 
