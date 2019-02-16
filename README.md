@@ -5,6 +5,8 @@ Links to Frameworks, Libraries,  Datasets, White papers, articles, list of books
 ## Machine Learning Guides
 ![Relation between AI, ML and DL](https://github.com/aridiosilva/My-TensorFlow-tutorials/blob/master/Relation%20Between%20AI%2C%20Machine%20Learning%20and%20Deep%20Learning.png)
 
+          source of this image is (https://www.prowesscorp.com/wp-content/uploads/2017/06/inBlog.png)
+
 Simple step-by-step walkthroughs to solve common machine learning problems using best practices
 
 - [*Overview*](https://developers.google.com/machine-learning/guides/)
