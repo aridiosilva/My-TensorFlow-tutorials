@@ -3,7 +3,7 @@
 Links to Frameworks, Libraries,  Datasets, White papers, articles, list of books, algorithms, tutorials, diagrams, models, code examples, videos, glossaries, and other topics related to Projects in Deep Learning, Machine Learning and AI.
 
 ## Machine Learning Guides
-![Relation between AI, ML and DL](https://github.com/aridiosilva/My-TensorFlow-tutorials/blob/master/Relation%20Between%20AI%2C%20Machine%20Learning%20and%20Deep%20Learning.jpg)
+![Relation between AI, ML and DL](https://github.com/aridiosilva/My-TensorFlow-tutorials/blob/master/Relation%20Between%20AI%2C%20Machine%20Learning%20and%20Deep%20Learning.png)
 
 Simple step-by-step walkthroughs to solve common machine learning problems using best practices
 
