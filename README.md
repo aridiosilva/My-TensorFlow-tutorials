@@ -5,7 +5,7 @@ Links to Frameworks, Libraries,  Datasets, White papers, articles, list of books
 ## Machine Learning Guides
 ![Relation between AI, ML and DL](https://github.com/aridiosilva/My-TensorFlow-tutorials/blob/master/Relation%20Between%20AI%2C%20Machine%20Learning%20and%20Deep%20Learning.png)
 
-          source of this image is (https://www.prowesscorp.com/wp-content/uploads/2017/06/inBlog.png)
+               source (https://www.prowesscorp.com/wp-content/uploads/2017/06/inBlog.png)
 
 Simple step-by-step walkthroughs to solve common machine learning problems using best practices
 
@@ -17,13 +17,13 @@ Simple step-by-step walkthroughs to solve common machine learning problems using
 ## Machine Learning Map
 ![Machine Learning Map*](https://raw.githubusercontent.com/aridiosilva/My-TensorFlow-tutorials/master/machine-learning-map.png)
 
-                source of this image is (https://github.com/trekhleb/homemade-machine-learning)
+                source (https://github.com/trekhleb/homemade-machine-learning)
 
 ## Papers About Different Types of Deep Neural Networks
 
-![*chart of different neural networks*](https://raw.githubusercontent.com/aridiosilva/My-TensorFlow-tutorials/master/chart of different neural networks.png)
+![*chart of different neural networks*](https://github.com/aridiosilva/My-TensorFlow-tutorials/blob/master/chart%20of%20different%20neural%20networks.png)
 
-                source of this image is (http://www.asimovinstitute.org/neural-network-zoo/)
+                                source (http://www.asimovinstitute.org/neural-network-zoo/)
                 
  - [*Kohonen networks (KN), also self organising (feature) map, SOM, SOFM)*](http://cioslab.vcu.edu/alg/Visualize/kohonen-82.pdf) - Kohonen, Teuvo. “Self-organized formation of topologically correct feature maps.” Biological cybernetics 43.1 (1982)
  - [*Support vector machines (SVM)*](http://image.diku.dk/imagecanon/material/cortes_vapnik95.pdf) - Cortes, Corinna, and Vladimir Vapnik. “Support-vector networks.” Machine learning 20.3 (1995): 273-297.
