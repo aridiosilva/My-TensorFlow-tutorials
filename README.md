@@ -132,6 +132,7 @@ Describes the standard library that is distributed with Python. It also describe
 This reference manual describes the syntax and “core semantics” of the language. 
  
    - [*Python Language Reference 3.0*](https://docs.python.org/3/reference/index.html#reference-index)
+   ' [*Google Python Style Guide*](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)
    
  - ### The Python Tutorial
  
