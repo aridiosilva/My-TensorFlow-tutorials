@@ -179,7 +179,7 @@ The Jupyter Notebook is an open-source web application that allows you to create
 ## Jupyter Notebooks Code Examples
 
 - [*Notebooks for Mining the Social Web Book*](https://nbviewer.jupyter.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/blob/master/ipynb/Chapter%201%20-%20Mining%20Twitter.ipynb)
-- [*Notebooks for Python for Signal Processing Book*](https://nbviewer.jupyter.org/github/unpingco/Python-for-Signal-Processing/tree/master/)
+- [*Nbviewer for Python for Signal Processing Book*](https://nbviewer.jupyter.org/github/unpingco/Python-for-Signal-Processing/tree/master/)
 - [*Notebooks for "Python for Signal Processing" book*](https://github.com/unpingco/Python-for-Signal-Processing)
 
 ## Markdown - Markup Language used in Collab and Jupyter Notebooks, GitHub and other cases
