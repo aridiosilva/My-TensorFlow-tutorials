@@ -56,7 +56,7 @@ With new neural network architectures popping up every now and then, it’s hard
 
 ## Repository of Technical Papers Published about AI, Machine Learning ad Deep Neural Networks - Cornell University
 
--[*Adaptive Resonance Theory*](https://arxiv.org/search/?query=%22Adaptive+Resonance+Theory%22&searchtype=all&abstracts=show&order=-announced_date_first&size=200)
+- [*Adaptive Resonance Theory*](https://arxiv.org/search/?query=%22Adaptive+Resonance+Theory%22&searchtype=all&abstracts=show&order=-announced_date_first&size=200)
 - [*Artificial Intelligence*](https://arxiv.org/search/?query=AI&searchtype=all&abstracts=show&order=-announced_date_first&size=200)
 - [*Artificial Neural Network*](https://arxiv.org/search/?query=%22Artificial+Neural+Network%22&searchtype=all&abstracts=show&order=-announced_date_first&size=200)
 - [*Associate Memory Network*](https://arxiv.org/search/?query=%22Associate+Memory+Network%22&searchtype=all&abstracts=show&order=-announced_date_first&size=200)
