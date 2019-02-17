@@ -56,7 +56,7 @@ With new neural network architectures popping up every now and then, it’s hard
 
 ## Repository of Technical Papers Published about AI, Machine Learning ad Deep Neural Networks - Cornell University
 
-- [*Papers about AI*](https://arxiv.org/search/?query=AI&searchtype=all&abstracts=show&order=-announced_date_first&size=200)
+- [*Artificial Intelligence*](https://arxiv.org/search/?query=AI&searchtype=all&abstracts=show&order=-announced_date_first&size=200)
 - [*Machine Learning*](https://arxiv.org/search/?query=Machine+Learning&searchtype=all&abstracts=show&order=-announced_date_first&size=200)
 - [*Deep Neural Networks*](https://arxiv.org/search/?query=Deep+Neural+Networks&searchtype=all&abstracts=show&order=-announced_date_first&size=200)
 - [*Unsupervised learning*](
