@@ -21,7 +21,7 @@ With new neural network architectures popping up every now and then, it’s hard
 
                 source (https://github.com/trekhleb/homemade-machine-learning)
 
-## Papers and Simpified Chart about Different Neural Networks
+## Papers and Simplified Chart about Different Neural Networks
 
 ![*chart of different neural networks*](https://github.com/aridiosilva/My-TensorFlow-tutorials/blob/master/chart%20of%20different%20neural%20networks.png)
 
