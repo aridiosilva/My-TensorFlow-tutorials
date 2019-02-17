@@ -126,7 +126,7 @@ With new neural network architectures popping up every now and then, it’s hard
 - [*Unfolding recurrent neural networks*](https://arxiv.org/search/?query=%22unfolding+recurrent+neural+networks%22&searchtype=all&abstracts=show&order=-announced_date_first&size=200)
 - [*Unsupervised learning*](https://arxiv.org/search/?query=%22Unsupervised+Learning%22&searchtype=all&abstracts=show&order=-announced_date_first&size=200)
 
-## Papers About Areas of Application of Articial Intelligence and Machine Learning - Cornell University
+## Papers About Areas of Application of Artificial Intelligence and Machine Learning - Cornell University
 
 - [*Automatic Coloration*](https://arxiv.org/search/?query=%22Automatic+Coloration%22&searchtype=all&abstracts=show&order=-announced_date_first&size=200)
 - [*Anomaly Detection*](https://arxiv.org/search/?query=%22Sentiment+Analysis%22&searchtype=all&abstracts=show&order=-announced_date_first&size=200)
