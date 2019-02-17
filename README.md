@@ -177,7 +177,7 @@ With new neural network architectures popping up every now and then, it’s hard
 - [*Paraphrase Detection*](https://arxiv.org/search/?query=%22Paraphrase+Detection%22&searchtype=all&abstracts=show&order=-announced_date_first&size=200)
 - [*Pattern Recognition*](https://arxiv.org/search/?query=%22Pattern+Recognition%22&searchtype=all&abstracts=show&order=-announced_date_first&size=200)
 - [*Question Answering*](https://arxiv.org/search/?query=%22Question+Answering%22&searchtype=all&abstracts=show&order=-announced_date_first&size=200)
-- [*Real time object recognition*](Real time object recognition)
+- [*Real time object recognition*](https://arxiv.org/search/?query=%22Real+time+object+recognition%22&searchtype=all&abstracts=show&order=-announced_date_first&size=200)
 - [*Recommendation Systems*](https://arxiv.org/search/?query=%22Recommendation+Systems%22&searchtype=all&abstracts=show&order=-announced_date_first&size=200)
 - [*Scene Classification*](https://arxiv.org/search/?query=%22Scene+Classification%22&searchtype=all&abstracts=show&order=-announced_date_first&size=200)
 - [*Scene Parsing*](https://arxiv.org/search/?query=%22Scene+Parsing%22&searchtype=all&abstracts=show&order=-announced_date_first&size=200)
