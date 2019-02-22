@@ -320,8 +320,7 @@ Describes the standard library that is distributed with Python. It also describe
  
   - [*Python Standard Library 3.0*](https://docs.python.org/3/library/)
   - [*Python Global Module Index*](https://docs.python.org/3/py-modindex.html)
-  - [*Python General Index - all functions, classes, terms*](https://docs.python.org/3/genindex.html)
-  
+  - [*Python General Index - all functions, classes, terms*](https://docs.python.org/3/genindex.html)  
   - [*Matplotlib 3.0.2 documentation*](https://matplotlib.org/contents.html)
   - [*MatplotLib 3.0.2 User´s Guide*](https://matplotlib.org/users/index.html)  
    
