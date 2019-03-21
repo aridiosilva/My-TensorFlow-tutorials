@@ -333,7 +333,7 @@ Is a reference manual describing the **syntax** and **core semantics** of the la
 ## The Python Tutorial
 
   - [*The Python Tutorial*](https://docs.python.org/3/tutorial/index.html)   
-  - [*Python - Style GFuide for Code (PEP 8)](https://github.com/python/peps/blob/master/pep-0008.txt)
+  - [*Python - Style GFuide for Code (PEP 8)*](https://github.com/python/peps/blob/master/pep-0008.txt)
     
 ## The Python Package Index (PyPI) 
 Is a repository of software for the Python programming language. PyPI helps you find and install software developed and shared by the Python community. Learn about installing packages. Package authors use PyPI to distribute their software. Learn how to package your Python code for PyPI
